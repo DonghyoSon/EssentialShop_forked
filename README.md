@@ -21,7 +21,7 @@
 <li>담당한 기능의 CRUD 구현</li>
 <br/>
 <h2>DB설계도</h2>
-<img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/b2788906-2f84-4ee7-9b3c-291d4acdfb81"/>
+<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/e612aa8f-1187-4b88-8a5e-c556d90e92c4"/>
 <h2>구현 화면</h2>
 <img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/db3b0dee-1c9d-4bdd-aef9-9dfa8b198611"/>
 <img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/940e7707-7d36-4b32-8e79-d6a85ad0ac02"/>
