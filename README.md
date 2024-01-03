@@ -16,7 +16,7 @@
 <span><img src="https://img.shields.io/badge/MyBatis-090909?logo=mybatis&logoColor=fff&style=for-the-badge"/></span>
 <br/>
 <h2>개발 목표</h2>
-<li>고객들이 사용하기 원활한 전통주 판매 홈페이지 제작</li>
+<li>고객들이 사용하기 원활한 인테리어 소품 판매 홈페이지 제작</li>
 <li>Front-End부터 Back-End까지 전반적인 기능 구현 경험 쌓기</li>
 <li>담당한 기능의 CRUD 구현</li>
 <br/>
