@@ -25,9 +25,7 @@
 <h2>구현 화면</h2>
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/f0c88e91-4434-4f6b-90ab-d7861bf2039c"/>
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/b98025eb-fab2-478a-b2c4-48319d025b9f"/>
-<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/26aed806-96ee-4448-bb3e-0ef0d5af3b97"/>
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/fa176da4-c900-417c-83fa-0beecc6d91f5"/>
-<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/ee31e5e9-ae4d-4903-b821-719181c0fcfc"/>
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/a6e8ecf7-c7b4-41ea-8dff-1dac7ac3a952"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
