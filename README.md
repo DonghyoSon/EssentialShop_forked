@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1C8394&height=300&section=header&text=ESSENTIAL&fontColor=ffffff&fontSize=90" />
-<h1>술꺼비</h1>
-<li>전통주 판매 쇼핑몰 홈페이지</li>
+<h1>ESSENTIAL#</h1>
+<li>가구, 인테리어 소품 쇼핑몰 홈페이지</li>
 <br/>
 <h2>Skills</h2>
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> </span>
