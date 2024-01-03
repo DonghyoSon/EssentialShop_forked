@@ -23,10 +23,11 @@
 <h2>DB설계도</h2>
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/e612aa8f-1187-4b88-8a5e-c556d90e92c4"/>
 <h2>구현 화면</h2>
-<img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/db3b0dee-1c9d-4bdd-aef9-9dfa8b198611"/>
-<img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/940e7707-7d36-4b32-8e79-d6a85ad0ac02"/>
-<img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/0001afd2-5045-4051-9604-1dc30041e20b"/>
-<img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/f85296b5-a45a-4824-8bf6-4cba5b5ead31"/>
-<img src="https://github.com/Mojitokyk/soolkkerbi_project/assets/143981349/33d3ee9e-984e-4de0-8279-5c3586a08a0e"/>
+<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/f0c88e91-4434-4f6b-90ab-d7861bf2039c"/>
+<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/b98025eb-fab2-478a-b2c4-48319d025b9f"/>
+<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/26aed806-96ee-4448-bb3e-0ef0d5af3b97"/>
+<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/fa176da4-c900-417c-83fa-0beecc6d91f5"/>
+<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/ee31e5e9-ae4d-4903-b821-719181c0fcfc"/>
+<img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/a6e8ecf7-c7b4-41ea-8dff-1dac7ac3a952"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
 
