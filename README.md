@@ -11,14 +11,8 @@
 <span><img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=fff&style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge"/></span>
-
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></span>
-<span><img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge"/></span>
-<span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></span>
-
 <span><img src="https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge"/></span>
-
-<span><img src="https://img.shields.io/badge/MyBatis-090909?logo=mybatis&logoColor=fff&style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/Ajax-090909?logo=ajax&logoColor=fff&style=for-the-badge"/></span>
 <br/>
 <h2>개발 목표</h2>
 <li>고객들이 사용하기 원활한 인테리어 소품 판매 홈페이지 제작</li>
