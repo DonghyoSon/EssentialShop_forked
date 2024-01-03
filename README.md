@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1C8394&height=300&section=header&text=ESSENTIAL#&fontColor=ffffff&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C8394&height=300&section=header&text=ESSENTIAL'#'&fontColor=ffffff&fontSize=90" />
 <h1>술꺼비</h1>
 <li>전통주 판매 쇼핑몰 홈페이지</li>
 <br/>
