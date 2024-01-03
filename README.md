@@ -26,5 +26,5 @@
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/b98025eb-fab2-478a-b2c4-48319d025b9f"/>
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/fa176da4-c900-417c-83fa-0beecc6d91f5"/>
 <img src="https://github.com/SeongJJun/semi_team_cereal/assets/143981349/a6e8ecf7-c7b4-41ea-8dff-1dac7ac3a952"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6289&height=200&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C8394&height=200&section=footer" />
 
